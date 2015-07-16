@@ -1,0 +1,10 @@
+html {
+	import { "templates/head" }
+	body#window {
+		import { "templates/header" }
+		import { "templates/sidebar" }
+		div.page-container {
+			"Content"
+		}
+	}
+}

@@ -1,0 +1,6 @@
+html {
+	import { "templates/header" }
+	body {
+		"Reserved"
+	}
+}

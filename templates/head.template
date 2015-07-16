@@ -1,0 +1,4 @@
+head {
+	title { "HTMLP - Coming soon" }
+	link[href=http://code.cdn.mozilla.net/fonts/fira.css][type=text/css][rel=stylesheet] {}
+}

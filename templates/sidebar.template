@@ -1,0 +1,9 @@
+div#sidebar {
+	ul.menu {
+		li { a[href=#] { "Home" } }
+		li { a[href=#] { "Downloads" } }
+		li { a[href=#] { "Home" } }
+		li { a[href=#] { "Home" } }
+		li { a[href=#] { "Home" } }
+	}
+}
