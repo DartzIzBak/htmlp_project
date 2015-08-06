@@ -1,6 +1,8 @@
 html {
-	import { "templates/header" }
+	import { "header" }
 	body {
-		"Reserved"
+		div {
+			"Reserved"
+		}
 	}
 }
